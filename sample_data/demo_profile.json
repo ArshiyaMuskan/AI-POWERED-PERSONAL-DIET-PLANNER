@@ -1,0 +1,11 @@
+{
+  "name": "Demo Student",
+  "email": "demo.student@example.com",
+  "age": 22,
+  "height": 170,
+  "weight": 65,
+  "activity_level": "moderate",
+  "dietary_preference": "vegetarian",
+  "goal": "balanced",
+  "allergies": ""
+}
